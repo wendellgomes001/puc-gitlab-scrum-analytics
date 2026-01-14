@@ -1,4 +1,4 @@
-# PUC – GitLab Scrum Analytics
+# PUC - GitLab Scrum Analytics
 
 Repositório desenvolvido como parte do Trabalho de Conclusão de Curso da Pós-Graduação em Engenharia de Dados da PUC.
 
@@ -34,4 +34,4 @@ O estudo de caso simula um ambiente corporativo fictício, aplicando práticas d
 
 ## Autor
 Wendell Gomes Ferreira  
-Pós-Graduação em Engenharia de Dados – PUC
+Pós-Graduação em Engenharia de Dados - PUC
