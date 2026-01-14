@@ -3,7 +3,7 @@
 Repositório desenvolvido como parte do Trabalho de Conclusão de Curso da Pós-Graduação em Engenharia de Dados da PUC.
 
 ## Descrição do Projeto
-Este projeto tem como objetivo analisar a produtividade e a qualidade em processos ágeis de desenvolvimento de software a partir de dados extraídos do GitLab, utilizando Python para ingestão e enriquecimento dos dados e Power BI para análise e visualização.
+Este projeto tem como objetivo analisar a produtividade e a desempenho em processos ágeis de desenvolvimento de software a partir de dados extraídos do GitLab, utilizando Python para ingestão e enriquecimento dos dados e Power BI para análise e visualização.
 
 O estudo de caso simula um ambiente corporativo fictício, aplicando práticas de Scrum e Software Analytics para suporte à tomada de decisão.
 
