@@ -8,23 +8,20 @@ Este projeto tem como objetivo analisar a produtividade e o desempenho em proces
 O estudo de caso simula um ambiente corporativo fictício, aplicando práticas de Scrum e Software Analytics para suporte à tomada de decisão.
 
 ## Estrutura do Repositório
-- `script/`  
+- `scripts/`  
   Contém o script Python responsável pela extração e enriquecimento dos dados via API do GitLab.
 
 - `data/`  
   Contém o arquivo CSV gerado pelo processo de ingestão de dados, utilizado como fonte no Power BI.
 
-- `powerbi/`  
+- `dashboard/`  
   Arquivo do dashboard desenvolvido no Power BI, com indicadores de produtividade, complexidade e tarefas atrasadas.
-
-- `docs/`  
-  Imagens e diagramas utilizados como evidência visual do projeto e do fluxo de dados.
 
 ## Tecnologias Utilizadas
 - Python
 - GitLab API
 - Power BI
-- CSV como formato intermediário de dados
+- CSV como dataset de dados
 
 ## Principais Análises
 - Tarefas por colaborador
